@@ -1,0 +1,13 @@
+.custom-bg {
+  background-color: #537692;
+}
+.line-bg {
+  background-color: #b3cde4;
+}
+.custom-h {
+  height: 5px;
+  width: 12%;
+}
+.star {
+  transform: translateY(-10px);
+}

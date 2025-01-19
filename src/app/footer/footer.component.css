@@ -1,0 +1,26 @@
+.all-content {
+  background-color: #1d3f58;
+}
+.row .content-caption {
+  background-color: #001b2e;
+}
+footer #ln:hover i {
+  background-color: #fff;
+  color: blue;
+  transition: all 1s;
+}
+footer #gh:hover i {
+  background-color: #fff;
+  color: black;
+  transition: all 1s;
+}
+footer #dr:hover i {
+  background-color: #fff;
+  color: blue;
+  transition: all 1s;
+}
+footer #be:hover i {
+  background-color: #fff;
+  color: blue;
+  transition: all 1s;
+}
