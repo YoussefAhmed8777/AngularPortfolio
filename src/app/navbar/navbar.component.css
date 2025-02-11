@@ -1,3 +1,7 @@
 .bg-custom {
   background-color: #1d3f58;
 }
+
+.navbar {
+  transition: all 1.2s;
+}
