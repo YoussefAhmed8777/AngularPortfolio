@@ -11,3 +11,15 @@
 .star {
   transform: translateY(-10px);
 }
+
+.img {
+  .layer {
+    inset: 0;
+    background-color: #537692b4;
+    opacity: 0;
+    transition: all 0.5s;
+  }
+  &:hover .layer {
+    opacity: 1;
+  }
+}
